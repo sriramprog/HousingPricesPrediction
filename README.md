@@ -45,4 +45,4 @@ Cleaning:
 4. Visualize the output: The code generates visualizations and prints evaluation metrics, including Mean Absolute Error (MAE) for each model tested.
 
 ## References
-For a detailed description of the project, including background, data preprocessing, model development, and results, please visit my Notion Repository.
+For a detailed description of the project, including background, data preprocessing, model development, and results, please visit my [Notion Repository](https://prickle-individual-755.notion.site/Project-3-HomeValue-Forecast-13ef9c7e94308022b936e207084c642b).
