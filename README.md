@@ -37,7 +37,7 @@ Cleaning:
 - K-Fold Cross-Validation: Tuned hyperparameters and optimized model performance using 10-fold cross-validation.
 
 ## How to Run the Code
-1. Clone the repository: git clone ____________
+1. Clone the repository: git clone https://github.com/sriramprog/HousingPricesPrediction.git
 2. Install dependencies: Ensure you have all required libraries installed: pip install -r requirements.txt
 3. Run the code:
 - The script includes all steps, from data loading and preprocessing to training and evaluating models.
