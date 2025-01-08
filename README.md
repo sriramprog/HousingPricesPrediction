@@ -2,7 +2,7 @@
 This repository contains the code for a project that quantifies the relationship between neighborhood walkability and housing prices in Philadelphia. The project aims to analyze if higher walk scores correlate with increased property values while considering other factors such as crime rates and school scores.
 
 ## Key Code File
-The code for this project is contained in a single Python script. Below is a brief overview of the steps taken and the corresponding functions. [View code here](https://github.com/sriramprog/HousingPricesPrediction/blob/main/housing_prices_prediction.ipynb))
+The code for this project is contained in a single Python script. Below is a brief overview of the steps taken and the corresponding functions. [View code here](https://github.com/sriramprog/HousingPricesPrediction/blob/main/housing_prices_prediction.ipynb).
 
 1. **Data Collection and Preprocessing**
 - Dataset: Sourced from Kaggle's Philadelphia Real Estate dataset. The data includes information for 615 properties, with features such as price estimates, walk score, crime rate, and school scores.
