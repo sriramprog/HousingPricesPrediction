@@ -1,4 +1,4 @@
-## HomeValue Forecast Project
+## Philadelphia Housing Prices Forecasting Project
 This repository contains the code for a project that quantifies the relationship between neighborhood walkability and housing prices in Philadelphia. The project aims to analyze if higher walk scores correlate with increased property values while considering other factors such as crime rates and school scores.
 
 ## Key Code File
